@@ -1,5 +1,5 @@
 # Calendario
-Personal Calendar in Python
+Personal Calendar in Python with tkinter
 
 ![alt text](github/example.gif)
 
