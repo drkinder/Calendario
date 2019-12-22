@@ -8,7 +8,7 @@ Personal Calendar in Python
 </ul>
 
 ## Desperately Needed Improvements<ul>
-<li>Switch from .txt files to hold monthly information to a database.</li>
+<li>Switch from using .txt files to store month and event data to a database.</li>
 </ul>
 
 ## Currently Abandoned
